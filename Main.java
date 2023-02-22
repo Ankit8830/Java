@@ -5,4 +5,5 @@ class Main {
     System.out.println(number);
     System.out.println(number1);
   }
+	
 }
